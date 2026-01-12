@@ -1,6 +1,4 @@
-# Decision & Problem-Solving Notes
-
-## Overview
+# Overview
 This repository contains a collection of Markdown (`.md`) files used to support structured thinking activities, including problem solving, decision making, project analysis, and reasoning under ambiguity.
 
 The content is designed as a practical working resource rather than a theoretical framework or academic reference.
