@@ -1,4 +1,4 @@
-# Ambiguity Coworker (Human + AI Augmentation)
+# Ambiguity Coworker 
 
 `ambiguity-coworker.md` is a reusable “thinking partner” prompt that helps turn messy scenarios into decision-grade clarity using critical thinking.
 
