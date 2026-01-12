@@ -2,7 +2,7 @@
 
 `ambiguity-coworker.md` is a reusable “thinking partner” prompt that helps turn messy scenarios into decision-grade clarity using critical thinking.
 
-This repo is an example of practicing **augmentation**: humans and AI collaborating as coworkers to accelerate sense-making, decisions, and execution.
+It is an example of practicing **augmentation**: humans and AI collaborating as coworkers to accelerate sense-making, decisions, and execution.
 
 ## What it does
 
