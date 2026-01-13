@@ -14,13 +14,11 @@ It is an example of practicing **augmentation**: humans and AI collaborating as 
 
 1. Open Codex or Claude Code CLI's.
 
-Example:
+Examples:
 
-- Run `ambiguity-coworker.md` on `scenarios/Cellulose 2026 Market.txt`. How can logistics enable value creation vs value sustaining?
-- Run `ambiguity-coworker.md` to check `scenarios/When AI Makes Everything Cheap.txt` considering what I must take into account in my
-  digital product strategy.
-- Run `ambiguity-coworker.md` over `scenarios/When AI Makes Everything Cheap.txt` and give me a north start to move forward in my AI
-  literacy.
+- Run `ambiguity-coworker.md` over `scenarios/When AI Makes Everything Cheap.txt` giving me a first view about in which ways logistics can be a source of value creation.
+- Run `ambiguity-coworker.md` to check `scenarios/When AI Makes Everything Cheap.txt` considering what I must take into account in my digital product strategy.
+- Run `ambiguity-coworker.md` over `scenarios/When AI Makes Everything Cheap.txt` and give me a north start to move forward in my AI literacy.
 
 ## What’s in this repo
 
