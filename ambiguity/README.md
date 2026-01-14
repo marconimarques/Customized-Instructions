@@ -16,9 +16,10 @@ It is an example of practicing **augmentation**: humans and AI collaborating as 
 
 Examples:
 
-- Run `ambiguity-coworker.md` to analyze `scenarios\'Cellulose 2026 Market.txt` giving me a first view about in which ways logistics can be a source of value creation.
-- Run `ambiguity-coworker.md` to check `scenarios/When AI Makes Everything Cheap.txt` considering what I must take into account in my digital product strategy.
-- Run `ambiguity-coworker.md` to analyze `scenarios/When AI Makes Everything Cheap.txt` providing me with a north start to move forward in my AI literacy.
+- Run `ambiguity-coworker.md` delving into `scenarios\'Cellulose 2026 Market.txt`
+- Run `ambiguity-coworker.md` to analyze `scenarios\'Cellulose 2026 Market.txt` giving me a first view about in which ways logistics can be a source of value creation
+- Run `ambiguity-coworker.md` to check `scenarios/When AI Makes Everything Cheap.txt` considering what I must take into account in my digital product strategy
+- Run `ambiguity-coworker.md` to analyze `scenarios/When AI Makes Everything Cheap.txt` providing me with a north start to move forward in my AI literacy
 
 ## What’s in this repo
 
